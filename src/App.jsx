@@ -1,10 +1,9 @@
-
-import { ToggleSwitch } from "./projects/ToggleSwitch/ToggleSwitch"
+import { UseStateHook } from "./components/hooks/UseStateHook"
 
 const App = () => {
   return (
     <>
-      <ToggleSwitch />
+      <UseStateHook />
     </>
   )
 }
