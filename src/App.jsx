@@ -1,9 +1,9 @@
-import { ContactFormSubmit } from "./components/hooks/ContactFormSubmit"
+import { UseEffect } from "./components/hooks/UseEffect/UseEffect"
 
 const App = () => {
   return (
     <>
-      <ContactFormSubmit />
+      <UseEffect />
 
     </>
   )
