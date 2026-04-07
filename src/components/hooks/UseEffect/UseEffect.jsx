@@ -17,6 +17,7 @@ export const UseEffect = () => {
     useEffect(()=>{
         console.log("count is ", count)
     }, [count])
+    
     return (
         <div className="container">
             <h1>UseEffect Hook</h1>

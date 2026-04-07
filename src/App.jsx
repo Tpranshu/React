@@ -1,9 +1,9 @@
-import { UseEffect } from "./components/hooks/UseEffect/UseEffect"
+import { CleanUp } from "./components/hooks/UseEffect/CleanUp"
 
 const App = () => {
   return (
     <>
-      <UseEffect />
+      <CleanUp />
 
     </>
   )
